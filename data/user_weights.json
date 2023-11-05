@@ -1,0 +1,16 @@
+{
+    "genre": {
+        "pop": 894.78,
+        "electronic": 1003.46,
+        "rock": 1046.94,
+        "blues": 975.0,
+        "hip hop": 1022.72
+    },
+    "emotion": {
+        "upbeat": 1012.7,
+        "chill": 1025.0,
+        "melancholic": 930.66,
+        "empowering": 1027.39,
+        "romantic": 1001.54
+    }
+}
